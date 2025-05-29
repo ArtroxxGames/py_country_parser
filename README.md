@@ -204,8 +204,4 @@ Matias Lopez - [@ArtroxxGames](https://twitter.com/ArtroxxGames)
 
 Link del Proyecto: [https://github.com/ArtroxxGames/py_country_parser](https://github.com/ArtroxxGames/py_country_parser)
 
-## 🙏 Agradecimientos
 
-- Datos geográficos proporcionados por [fuente oficial]
-- PostgreSQL por ser una excelente base de datos
-- La comunidad de Python por las herramientas fantásticas
