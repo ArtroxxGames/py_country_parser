@@ -29,7 +29,7 @@ Esta guía te ayudará a configurar el proyecto paso a paso.
 
 #### Opción A: Clonar desde GitHub
 ```bash
-git clone https://github.com/tu-usuario/cargador-datos-geograficos-py.git
+git clone https://github.com/ArtroxxGames/py_country_parser.git
 cd cargador-datos-geograficos-py
 ```
 

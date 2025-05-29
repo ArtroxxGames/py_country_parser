@@ -47,8 +47,8 @@ El CSV contiene las siguientes columnas:
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/cargador-datos-geograficos-py.git
-   cd cargador-datos-geograficos-py
+   git clone https://github.com/ArtroxxGames/py_country_parser.git
+   cd py_country_parser
    ```
 
 2. **Crea y activa un entorno virtual:**
@@ -202,7 +202,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 Tu Nombre - [@tu_twitter](https://twitter.com/tu_twitter) - tu_email@ejemplo.com
 
-Link del Proyecto: [https://github.com/tu-usuario/cargador-datos-geograficos-py](https://github.com/tu-usuario/cargador-datos-geograficos-py)
+Link del Proyecto: [https://github.com/ArtroxxGames/py_country_parser](https://github.com/ArtroxxGames/py_country_parser)
 
 ## 🙏 Agradecimientos
 
