@@ -200,7 +200,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## 📞 Contacto
 
-Tu Nombre - [@tu_twitter](https://twitter.com/tu_twitter) - tu_email@ejemplo.com
+Tu Nombre - [@ArtroxxGames](https://twitter.com/ArtroxxGames)
 
 Link del Proyecto: [https://github.com/ArtroxxGames/py_country_parser](https://github.com/ArtroxxGames/py_country_parser)
 
